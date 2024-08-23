@@ -351,7 +351,7 @@ nav .close-icon{
     max-height: 800px;
     border-radius: 20px;
     background-color: rgba(0,0,0,0.75);
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     z-index: 5;
